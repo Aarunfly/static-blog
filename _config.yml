@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 1+米饭
 subtitle: ''
 description: ''
 keywords:
@@ -102,4 +102,7 @@ theme: fluid
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  repo:https://github.com/Aarunfly/Aarunfly.github.io.git
+  branch:main
+  taken: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
