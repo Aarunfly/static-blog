@@ -1,13 +1,14 @@
 ---
-title: Hello World
+title: 功能说明
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+此次建站主要是因为云服务器到期以及域名释放，为跟随公司降本增效策略，三思后决定使用 github page 来搭建我的记录平台
 
-### Create a new post
+<!-- ## Quick Start -->
 
-``` bash
+<!-- ### Create a new post -->
+
+<!-- ``` bash
 $ hexo new "My New Post"
 ```
 
@@ -35,4 +36,4 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 $ hexo deploy
 ```
 
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+More info: [Deployment](https://hexo.io/docs/one-command-deployment.html) -->

@@ -5,3 +5,5 @@
 # · hexo s
 
 #部署到 git: hexo g -d
+
+# 新建文章 hexo new post 艺飞的第一篇文章
