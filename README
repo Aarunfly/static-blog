@@ -1,0 +1,7 @@
+#初始化 npm install #本地运行
+
+# · hexo g -d
+
+# · hexo s
+
+#部署到 git: hexo g -d
