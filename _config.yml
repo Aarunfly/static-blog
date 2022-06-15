@@ -103,6 +103,6 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo:https://github.com/Aarunfly/Aarunfly.github.io.git
-  branch:main
-  taken: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
+  repo: https://github.com/Aarunfly/Aarunfly.github.io.git
+  branch: main
+  taken: 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
