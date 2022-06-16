@@ -803,7 +803,7 @@ valine:
   lang: 'zh-CN'
   highlight: false
   recordIP: false
-  serverURLs: ''
+  serverURLs: 'https://uombwhvk.lc-cn-n1-shared.com'
   emojiCDN:
   emojiMaps:
   enableQQ: false
